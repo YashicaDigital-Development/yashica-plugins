@@ -8,10 +8,10 @@
 	"requires" : "3.0",
 	"tested" : "7.4",
 	"requires_php" : "5.3",
-	"last_updated" : "2022-10-24",
+	"last_updated" : "2022-11-11",
 	"sections" : {
 		"description" : "Yashica nástěnka.",
 		"installation" : "Aktivovat plugin. Další nastavení v nastavení nástěnky. Zapnout automatické aktualizace pluginu.",
-		"changelog" : "<h4>1.1.4 –  24. 20. 2022</h4><ul><li>Vydání</li></ul>"
+		"changelog" : "<h4>1.1.5 –  11. 11. 2022</h4><ul><li>Úprava</li></ul>"
 	}
 }
