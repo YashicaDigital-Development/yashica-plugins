@@ -12,6 +12,6 @@
 	"sections" : {
 		"description" : "Yashica nástěnka.",
 		"installation" : "Aktivovat plugin. Další nastavení v nastavení nástěnky. Zapnout automatické aktualizace pluginu.",
-		"changelog" : "<h4>1.1.7 –  11. 11. 2022</h4><ul><li>Defaultní rok záruky nastaven na 1</li></ul><h4>1.1.6 –  11. 11. 2022</h4><ul><li>Version update fix</li></ul>"
+		"changelog" : "<h4>1.1.8 –  3. 1. 2023</h4><ul><li>CSS - Schování notices</li></ul><h4>1.1.7 –  11. 11. 2022</h4><ul><li>Defaultní rok záruky nastaven na 1</li></ul><h4>1.1.6 –  11. 11. 2022</h4><ul><li>Version update fix</li></ul>"
 	}
 }
